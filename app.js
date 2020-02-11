@@ -224,7 +224,7 @@ let topHTML = `
 </head>
 <body>
     <div class="header">
-        <h1> ${teamNameArray[0]} Team Members:</h1>
+        <h1>Team Members:</h1>
     </div>
     <div class="card-container">
         
