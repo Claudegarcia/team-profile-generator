@@ -5,3 +5,7 @@ App allows the user to generate a team profile html page with team members and t
 PASSING ALL TESTS
 
 ![APP HOME SCREEN](./assets/images/tests.PNG)
+
+GENERATED TEAM CARDS
+
+![APP HOME SCREEN](./assets/images/Caputere.PNG)
